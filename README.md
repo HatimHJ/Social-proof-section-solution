@@ -1,6 +1,6 @@
-# Frontend Mentor - Article preview component solution
+# Frontend Mentor - Social proof section solution
 
-This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -16,24 +16,23 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
+
 ## Overview
 
 ### The challenge
 
 Users should be able to:
 
-- View the optimal layout for the component depending on their device's screen size
-- See the social media share links when they click the share icon
+- View the optimal layout for the section depending on their device's screen size
 
 ### Screenshot
 
-![](./screenshot.png)
-
+![](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/HatimHJ/Article-preview-componen)
-- Live Site URL: [Site](https://hatimhj.github.io/Article-preview-componen/)
+- Solution URL: [solution](https://github.com/HatimHJ/Social-proof-section-solution)
+- Live Site URL: [live Site](https://hatimhj.github.io/Social-proof-section-solution/)
 
 ## My process
 
@@ -41,24 +40,18 @@ Users should be able to:
 
 - HTML
 - CSS
-- Flexbox
-- JS
-- Mobile-first workflow
+- Bootstrap
 
 ### What I learned
-
 
 ### Continued development
 
 ### Useful resources
 
-- [w3schools](https://www.w3schools.com/) -
-
 
 ## Author
 
-- Website - [TheHub](https://github.com/HatimHJ)
+- Github - [HatimHJ](https://github.com/HatimHJ)
 - Frontend Mentor - [@HatimHJ](https://www.frontendmentor.io/profile/HatimHJ)
 
 ## Acknowledgments
-
