@@ -39,7 +39,7 @@ Users should be able to:
 ### Built with
 
 - HTML
-- CSS
+- CSS - SCSS
 - Bootstrap
 
 ### What I learned
