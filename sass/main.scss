@@ -1,0 +1,73 @@
+
+
+$Mobile: 375px;
+$Tablet: 992px;
+$Desktop: 1440px;
+$bp:810px;
+$border-radius:.8em;
+
+@import './utils/color';
+@import './utils/helper_classes';
+@import './utils/typography';
+@import './utils/buttons';
+@import './utils/mixin';
+
+@import './section';
+
+
+*{@include reset();}
+
+body{
+  font-family: $font-family-Spartan;
+  font-size: $body-font-size;
+  position: relative;
+}
+
+
+.social-proof{
+  min-height: 100vh;
+}
+.content{
+  background-image: url('../images/bg-pattern-top-mobile.svg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.cards{
+  background-image: url('../images/bg-pattern-bottom-mobile.svg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+@media (min-width: 1400px){
+  .content{
+    background-image: url('../images/bg-pattern-top-desktop.svg') !important;
+    h2{
+      width: 400px;
+      font-size: 3.5rem;
+      letter-spacing: 1 !important;
+    }
+  }
+  .cards{
+    background-image: url('../images/bg-pattern-bottom-desktop.svg') !important;
+    
+  }
+  .rate:nth-child(1){
+    margin-left: 3rem !important;
+    margin-right: 2rem !important;
+  }
+  .rate:nth-child(2){
+    margin-left: 4rem !important;
+    margin-right: 1rem !important;
+  }
+  .rate:nth-child(3){
+    margin-left: 5rem !important;
+    margin-right: auto !important;
+
+  
+  }
+}
+
+
+
+.hidden{display: none;}
+@import './footer';

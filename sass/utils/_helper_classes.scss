@@ -1,0 +1,39 @@
+.custom-primary-bg{
+  background-color: $very-dark-magenta !important;
+}
+.custom-primary-text{
+  color: $very-dark-magenta !important;
+}
+.custom-secondary-bg{
+  background-color: $light-grayish-magenta !important;
+}
+.custom-secondary-text{
+  color: $light-grayish-magenta !important;
+}
+
+.rounded-4{
+  border-radius: .5rem !important;
+}
+
+.name{
+  font-weight: bold;
+  color: $light-grayish-magenta;
+}
+.status{
+  color: $soft-pink;
+  margin-top: -5px;
+}
+.c-ls-1{
+  letter-spacing: -2px;
+
+}
+.c-lh-1{
+  line-height: .80 !important;
+}
+.c-display-1{
+  font-size: 3.5em;
+}
+
+.fs-5-5{
+  font-size: 1rem;
+}

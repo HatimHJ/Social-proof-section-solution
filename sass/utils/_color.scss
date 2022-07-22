@@ -1,0 +1,39 @@
+// 08- Social proof section solution
+
+
+// ### Primary
+
+$very-dark-magenta: #502050;
+$soft-pink: hsl(333, 80%, 67%);
+
+// ### Neutral
+
+$dark-grayish-magenta: #937b92;
+$light-grayish-magenta: #f7f2f7;
+$white: #ffffff;
+
+// =============================================================
+.bg-megenta-1{
+  background-color: $very-dark-magenta !important;
+}
+.bg-megenta-2{
+  background-color: $dark-grayish-magenta !important;
+}
+.bg-megenta-3{
+  background-color: $light-grayish-magenta !important;
+}
+.text-megenta-1{
+  color: $very-dark-magenta !important;
+}
+.text-megenta-2{
+  color: $dark-grayish-magenta !important;
+}
+.text-megenta-3{
+  color: $light-grayish-magenta !important;
+}
+
+
+.text-pink{
+  color: $soft-pink !important;
+}
+
